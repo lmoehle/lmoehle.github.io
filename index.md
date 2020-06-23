@@ -10,3 +10,7 @@ Merrly, Merrly, Merrly life is but a dream.
 * trait 2
 * trait 3
 * trait 4
+
+As Spock sais:
+
+> Live long and prosper!
