@@ -12,11 +12,36 @@
   {
     "packzettel_nummer": "PZ000003",
     "expressversand": true,
-    "versanddatum": "2026-07-12"
+    "versanddatum": "2026-07-11"
   },
   {
     "packzettel_nummer": "PZ000004",
     "expressversand": false,
-    "versanddatum": "2026-07-14"
+    "versanddatum": "2026-07-11"
+  }
+    {
+    "packzettel_nummer": "PZ000005",
+    "expressversand": false,
+    "versanddatum": "2026-07-11"
+  }
+  {
+    "packzettel_nummer": "PZ000006",
+    "expressversand": false,
+    "versanddatum": "2026-07-11"
+  }
+    {
+    "packzettel_nummer": "PZ000007",
+    "expressversand": true,
+    "versanddatum": "2026-07-11"
+  }
+  {
+    "packzettel_nummer": "PZ000008",
+    "expressversand": false,
+    "versanddatum": "2026-07-11"
+  }
+  {
+    "packzettel_nummer": "PZ000009",
+    "expressversand": true,
+    "versanddatum": "2026-07-11"
   }
 ]
