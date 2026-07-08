@@ -1,0 +1,22 @@
+[
+  {
+    "packzettel_nummer": "PZ000001",
+    "expressversand": true,
+    "versanddatum": "2026-07-10"
+  },
+  {
+    "packzettel_nummer": "PZ000002",
+    "expressversand": false,
+    "versanddatum": "2026-07-11"
+  },
+  {
+    "packzettel_nummer": "PZ000003",
+    "expressversand": true,
+    "versanddatum": "2026-07-12"
+  },
+  {
+    "packzettel_nummer": "PZ000004",
+    "expressversand": false,
+    "versanddatum": "2026-07-14"
+  }
+]
